@@ -54,4 +54,9 @@ body {
     top: 340px;
     right: 630px;
   }
+
+  .dissapear {
+    box-shadow: 0 0 50px white;
+    filter: brightness(300%);
+  }
   
